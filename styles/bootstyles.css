@@ -1,0 +1,75 @@
+body{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/images/webbackground.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: Lora, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    
+}
+
+a:link{
+    color: #e6a756;
+}
+
+a:visited{
+    color:#f6e1c5
+}
+
+.common{
+    background-color: rgba(47, 23, 15, 0.9);
+    position: absolute;
+
+}
+
+.header{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 25px;
+    text-align: center;
+    font-size: larger;
+    color: #e6a756;
+}
+
+.body{
+    background-color: transparent;
+    border: transparent;
+    bottom: 36px;
+    left: 5px;
+    right: 5px;
+    top: 36px;
+    margin: auto;
+}
+
+.tableaureport{
+    margin:auto;
+    width: 100%;
+    padding: 25px;
+    height: fit-content;
+    text-align: center;
+    max-width: 1000px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 25px;
+    text-align: center;
+    color: #e6a756
+}
+
+.graphtext{
+    font-size: 25px;
+    padding: 30px 0;
+    text-align: center;
+    color: #f6e1c5
+}
+
+.regtext{
+    font-size: 25px;
+    padding: 30px 0;
+    text-align: center;
+    color: #e6a756;
+}

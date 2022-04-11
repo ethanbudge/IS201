@@ -1,0 +1,20 @@
+.image{
+    max-height: 600px
+}
+
+.video{
+    height: 500px;
+    width: 900px;
+}
+
+.bodytext{
+   text-align: center;
+}
+
+.boldsubject{
+    font-weight: bold;
+}
+
+.fontfamily{
+   font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
